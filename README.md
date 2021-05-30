@@ -6,7 +6,7 @@ Updating...
 ----
 #### 📫Contact me:
 
-[<img src="https://raw.githubusercontent.com/sklyaba/sklyaba/main/logos/mail.png" width="64" height="64">](mailto:DanisSalakheev@gmail.com) [<img src="https://raw.githubusercontent.com/sklyaba/sklyaba/main/logos/telegram.png" width="64" height="64">](http://t.me/salaheev) [<img src="https://raw.githubusercontent.com/sklyaba/sklyaba/main/logos/vk.png" width="64" height="64">](https://vk.com/dan_9) [<img src="https://raw.githubusercontent.com/sklyaba/sklyaba/main/logos/linkedin.png" width="64" height="64">](https://www.linkedin.com/)
+[<img src="https://raw.githubusercontent.com/sklyaba/sklyaba/main/logos/mail.png" width="64" height="64">](mailto:DanisSalakheev@gmail.com) [<img src="https://raw.githubusercontent.com/sklyaba/sklyaba/main/logos/telegram.png" width="64" height="64">](https://t.me/salaheev) [<img src="https://raw.githubusercontent.com/sklyaba/sklyaba/main/logos/vk.png" width="64" height="64">](https://vk.com/dan_9) [<img src="https://raw.githubusercontent.com/sklyaba/sklyaba/main/logos/linkedin.png" width="64" height="64">](https://www.linkedin.com/)
 
 <!--
 **sklyaba/sklyaba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
