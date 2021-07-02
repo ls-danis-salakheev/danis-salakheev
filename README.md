@@ -1,7 +1,6 @@
 ### Hi, I'm Danis👋
 Welcome to my GitHub account! 😎
 
-Updating...
 
 ----
 #### 📫Contact me:
